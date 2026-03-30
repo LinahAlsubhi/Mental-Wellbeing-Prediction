@@ -3,7 +3,7 @@ A data science study utilizing Machine Learning to predict psychological wellbei
 
 ## Technical Highlights
 * **ML Algorithms:** Evaluated **Neural Networks, Naive Bayes, and JRip**.
-* **Data:** Processed a [dataset](./dataset.csv) of 15 features (sleep, stress, air quality, etc.).
+* **Data:** Processed a [dataset](./dataset.zip) of 15 features (sleep, stress, air quality, etc.).
 * **Tool:** Developed using **RapidMiner** with 10-fold cross-validation.
 
 ## Project Files
