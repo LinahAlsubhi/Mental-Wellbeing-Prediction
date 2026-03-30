@@ -7,5 +7,5 @@ A data science study utilizing Machine Learning to predict psychological wellbei
 * **Tool:** Developed using **RapidMiner** with 10-fold cross-validation.
 
 ## Project Files
-* **Dataset:** [Mental Wellbeing CSV](./dataset.csv)
+* **Dataset:** [Mental Wellbeing CSV](./dataset.zip)
 * **Full Analysis & Results:** [Technical Report (PDF)](./Mental_Wellbeing.pdf)
